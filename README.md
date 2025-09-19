@@ -8,12 +8,10 @@ Passionate about Web Development, Problem Solving, and Learning New Technologies
 ## 💻 Tech Stack
 
 - JavaScript
-- TypeScript
-- React
 - HTML5
 - CSS3
 - Python
-- C#
+- C
 
 ---
 
